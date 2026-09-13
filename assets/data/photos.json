@@ -3,69 +3,224 @@
     "wordmark": "1729",
     "title": "1729 Photography",
     "tagline": "Portraits · Landscapes · Night · Abstract",
-    "hero": { "file": "images/night/night-01.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/9c9ed463-4336-4ee8-98a9-4f6dea701e8b_rw_1920.jpg?h=2da472dab426cdfe84c5d82084e62893" }
+    "hero": {
+      "file": "images/night/night-01.jpg",
+      "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/9c9ed463-4336-4ee8-98a9-4f6dea701e8b_rw_1920.jpg?h=2da472dab426cdfe84c5d82084e62893"
+    }
   },
   "collections": [
     {
       "slug": "people",
       "title": "People",
       "description": "",
-      "cover": { "file": "images/people/people-05.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/3f128a45-36da-4988-8e9a-5340eb480536_rw_1200.jpg?h=26ee5471ebe2a35f2c865c32f3e0d55d" },
+      "cover": {
+        "file": "images/people/people-05.jpg",
+        "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/3f128a45-36da-4988-8e9a-5340eb480536_rw_1200.jpg?h=26ee5471ebe2a35f2c865c32f3e0d55d"
+      },
       "photos": [
-        { "file": "images/people/people-01.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/73dbe632-cd0d-42c6-b550-86ee612caf8c_rw_1200.jpg?h=ddfb636545a5591b8c41d65a87f88f54", "w": 713, "h": 475 },
-        { "file": "images/people/people-02.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/100bea84-0eb3-4b75-b992-bd5fa0276c20_rw_1200.jpg?h=5d1d00d84a224d5f183bf9489559affd", "w": 713, "h": 475 },
-        { "file": "images/people/people-03.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/e8fbd9a6-b312-4818-8c21-83b5fe3c0611_rw_1200.jpg?h=517099e94cd2dba995ddc1534193dffe", "w": 713, "h": 475 },
-        { "file": "images/people/people-04.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/b325a90d-73a5-4854-9507-41da4a792475_rw_1200.jpg?h=51af1dc56c194dd7f624a8b298226718", "w": 713, "h": 475 },
-        { "file": "images/people/people-05.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/3f128a45-36da-4988-8e9a-5340eb480536_rw_1200.jpg?h=26ee5471ebe2a35f2c865c32f3e0d55d", "w": 713, "h": 1069 },
-        { "file": "images/people/people-06.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/05fd99ea-fd16-4fc1-bb01-48c8f4b3b642_rw_1200.jpg?h=79c0a6dc9197e1bf94a436044c9b2b48", "w": 713, "h": 475 },
-        { "file": "images/people/people-07.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/2d76c9f9-d11c-40ab-852d-fbe0e761a361_rw_1200.jpg?h=b75edd6eda5fe06f126e1f4bdec1bfb9", "w": 713, "h": 475 }
+        {
+          "file": "images/people/people-01.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/73dbe632-cd0d-42c6-b550-86ee612caf8c_rw_1200.jpg?h=ddfb636545a5591b8c41d65a87f88f54",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/people/people-02.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/100bea84-0eb3-4b75-b992-bd5fa0276c20_rw_1200.jpg?h=5d1d00d84a224d5f183bf9489559affd",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/people/people-03.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/e8fbd9a6-b312-4818-8c21-83b5fe3c0611_rw_1200.jpg?h=517099e94cd2dba995ddc1534193dffe",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/people/people-04.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/b325a90d-73a5-4854-9507-41da4a792475_rw_1200.jpg?h=51af1dc56c194dd7f624a8b298226718",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/people/people-05.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/3f128a45-36da-4988-8e9a-5340eb480536_rw_1200.jpg?h=26ee5471ebe2a35f2c865c32f3e0d55d",
+          "w": 713,
+          "h": 1069
+        },
+        {
+          "file": "images/people/people-06.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/05fd99ea-fd16-4fc1-bb01-48c8f4b3b642_rw_1200.jpg?h=79c0a6dc9197e1bf94a436044c9b2b48",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/people/people-07.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/2d76c9f9-d11c-40ab-852d-fbe0e761a361_rw_1200.jpg?h=b75edd6eda5fe06f126e1f4bdec1bfb9",
+          "w": 713,
+          "h": 475
+        }
       ]
     },
     {
       "slug": "places",
       "title": "Places",
       "description": "",
-      "cover": { "file": "images/places/places-01.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/65f606fd-d575-42cd-b151-0c080e81b5e2_rw_1920.jpg?h=c7da219e8a5b13aebb14e02b2554976b" },
+      "cover": {
+        "file": "images/places/places-05.jpg"
+      },
       "photos": [
-        { "file": "images/places/places-01.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/65f606fd-d575-42cd-b151-0c080e81b5e2_rw_1920.jpg?h=c7da219e8a5b13aebb14e02b2554976b", "w": 713, "h": 475 },
-        { "file": "images/places/places-02.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/08ac3cbf-15a5-445c-9387-97496a599595_rw_1920.jpg?h=71e167bda456b4aa9edb4ce6370237b7", "w": 713, "h": 475 },
-        { "file": "images/places/places-03.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/91de66e6-40ed-4811-96bf-c56bbd58d751_rw_1200.jpg?h=9a9df8d5ea5ee651a0b00a50ee70ee05", "w": 713, "h": 475 },
-        { "file": "images/places/places-04.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/0beec055-f0dd-4eac-a5a7-c4c93a77ea80_rw_1200.jpg?h=86ef0aab4d34dd28a2ffca6ed4fa2431", "w": 713, "h": 475 },
-        { "file": "images/places/places-05.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/6ad11d48-5807-4be6-9689-2ef696333d80_rw_1200.jpg?h=ad6a027bed3b2da142201a7b29a27c09", "w": 713, "h": 475 },
-        { "file": "images/places/places-06.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/ed4d2133-8498-4936-a876-4936e06b054e_rw_1200.jpg?h=2d7df5ba6cfd6af4d51cca3397596f7a", "w": 713, "h": 475 },
-        { "file": "images/places/places-07.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/d9c507d0-ad04-49d6-8375-eb7aa2b01b1c_rw_1200.jpg?h=231504ad2390db4ff627aa0ec5cd02ca", "w": 713, "h": 475 },
-        { "file": "images/places/places-08.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/9aec6af3-3b2d-4f9c-93f4-56ff14113f6b_rw_1200.jpg?h=2112658ede45c98c186987d9c0c368a5", "w": 713, "h": 475 },
-        { "file": "images/places/places-09.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/0f16a85e-024b-413c-9eb4-6a935b729bd6_rw_1200.jpg?h=4edb9238f59b3775b0ccc3ee14769f2c", "w": 713, "h": 364 }
+        {
+          "file": "images/places/places-01.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "images/places/places-02.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "images/places/places-03.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "images/places/places-04.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "images/places/places-05.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "images/places/places-06.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "images/places/places-07.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "images/places/places-08.jpg",
+          "w": 1200,
+          "h": 800
+        },
+        {
+          "file": "images/places/places-09.jpg",
+          "w": 1200,
+          "h": 800
+        }
       ]
     },
     {
       "slug": "night",
       "title": "Night",
       "description": "",
-      "cover": { "file": "images/night/night-01.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/9c9ed463-4336-4ee8-98a9-4f6dea701e8b_rw_1920.jpg?h=2da472dab426cdfe84c5d82084e62893" },
+      "cover": {
+        "file": "images/night/night-01.jpg",
+        "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/9c9ed463-4336-4ee8-98a9-4f6dea701e8b_rw_1920.jpg?h=2da472dab426cdfe84c5d82084e62893"
+      },
       "photos": [
-        { "file": "images/night/night-01.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/9c9ed463-4336-4ee8-98a9-4f6dea701e8b_rw_1920.jpg?h=2da472dab426cdfe84c5d82084e62893", "w": 713, "h": 475 },
-        { "file": "images/night/night-02.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/3ed68248-e429-4ba0-b911-0acab6516d6f_rw_1200.jpg?h=d097d96771aee2e02a859b6250b8cf87", "w": 713, "h": 475 },
-        { "file": "images/night/night-03.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/1d153674-b1be-4d4e-98c5-f9d35d9f1a72_rw_1200.jpg?h=a1979e090e66896671c71aa4de630755", "w": 713, "h": 475 },
-        { "file": "images/night/night-04.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/21ae9fea-26d8-4686-b071-6570f4928ecd_rw_1200.jpg?h=ee51bf0c1185c3571ccb2f9d4384f851", "w": 713, "h": 475 },
-        { "file": "images/night/night-05.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/f34a055d-d1c6-46ed-9782-024305a4cbb2_rw_1200.jpg?h=4768ade69be0db25f257f9d721f3c0c0", "w": 713, "h": 393 },
-        { "file": "images/night/night-06.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/6717fcf5-5649-4065-a5b4-0e706d7c2fa5_rw_1200.jpg?h=033d2d83088e2f8525456f72352aab8d", "w": 713, "h": 475 },
-        { "file": "images/night/night-07.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/2a58432d-f940-4fb3-a0d7-21b01959a010_rw_1200.jpg?h=8cda62ff479deea077785b8631f803fc", "w": 713, "h": 475 },
-        { "file": "images/night/night-08.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/c672e96f-7142-453b-8521-fd126201c822_rw_1200.jpg?h=90cce0781757fe27d96b6b24e2ca8d8d", "w": 713, "h": 364 },
-        { "file": "images/night/night-09.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/86555a99-8a64-4b4e-b5cb-baefdc465124_rw_1200.jpg?h=33dbec8ebf1efd33dbb61214571a7d41", "w": 713, "h": 475 },
-        { "file": "images/night/night-10.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/a2f9e60a-b834-4e26-b277-1362a7622d7a_rw_1200.jpg?h=1f9306057006fbbf8f04595d0758632e", "w": 713, "h": 475 }
+        {
+          "file": "images/night/night-01.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/9c9ed463-4336-4ee8-98a9-4f6dea701e8b_rw_1920.jpg?h=2da472dab426cdfe84c5d82084e62893",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/night/night-02.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/3ed68248-e429-4ba0-b911-0acab6516d6f_rw_1200.jpg?h=d097d96771aee2e02a859b6250b8cf87",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/night/night-03.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/1d153674-b1be-4d4e-98c5-f9d35d9f1a72_rw_1200.jpg?h=a1979e090e66896671c71aa4de630755",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/night/night-04.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/21ae9fea-26d8-4686-b071-6570f4928ecd_rw_1200.jpg?h=ee51bf0c1185c3571ccb2f9d4384f851",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/night/night-05.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/f34a055d-d1c6-46ed-9782-024305a4cbb2_rw_1200.jpg?h=4768ade69be0db25f257f9d721f3c0c0",
+          "w": 713,
+          "h": 393
+        },
+        {
+          "file": "images/night/night-06.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/6717fcf5-5649-4065-a5b4-0e706d7c2fa5_rw_1200.jpg?h=033d2d83088e2f8525456f72352aab8d",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/night/night-07.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/2a58432d-f940-4fb3-a0d7-21b01959a010_rw_1200.jpg?h=8cda62ff479deea077785b8631f803fc",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/night/night-08.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/c672e96f-7142-453b-8521-fd126201c822_rw_1200.jpg?h=90cce0781757fe27d96b6b24e2ca8d8d",
+          "w": 713,
+          "h": 364
+        },
+        {
+          "file": "images/night/night-09.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/86555a99-8a64-4b4e-b5cb-baefdc465124_rw_1200.jpg?h=33dbec8ebf1efd33dbb61214571a7d41",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/night/night-10.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/a2f9e60a-b834-4e26-b277-1362a7622d7a_rw_1200.jpg?h=1f9306057006fbbf8f04595d0758632e",
+          "w": 713,
+          "h": 475
+        }
       ]
     },
     {
       "slug": "dreams",
       "title": "Dreams",
       "description": "",
-      "cover": { "file": "images/dreams/dreams-01.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/052ce115-7310-4511-adac-6d7ff71e9698_rw_1920.jpg?h=aa50731f9007ef937b98dc32ae488f5c" },
+      "cover": {
+        "file": "images/dreams/dreams-01.jpg",
+        "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/052ce115-7310-4511-adac-6d7ff71e9698_rw_1920.jpg?h=aa50731f9007ef937b98dc32ae488f5c"
+      },
       "photos": [
-        { "file": "images/dreams/dreams-01.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/052ce115-7310-4511-adac-6d7ff71e9698_rw_1920.jpg?h=aa50731f9007ef937b98dc32ae488f5c", "w": 713, "h": 475 },
-        { "file": "images/dreams/dreams-02.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/10041c48-5d34-4ded-930c-34764293eaaa_rw_1200.jpg?h=9e2e9cecf09a05983063cb6aae5094a4", "w": 713, "h": 475 },
-        { "file": "images/dreams/dreams-03.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/c0a0450b-9d7e-4018-9701-e496464e4050_rw_1200.jpg?h=828d168597f6681e9b51c1bbc3a102af", "w": 713, "h": 475 },
-        { "file": "images/dreams/dreams-04.jpg", "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/0c3ac7ce-b7fe-4c8d-82cd-0c86c93823ca_rw_1200.jpg?h=677b631386eabc0e9e3ee43f3a77599d", "w": 713, "h": 475 }
+        {
+          "file": "images/dreams/dreams-01.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/052ce115-7310-4511-adac-6d7ff71e9698_rw_1920.jpg?h=aa50731f9007ef937b98dc32ae488f5c",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/dreams/dreams-02.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/10041c48-5d34-4ded-930c-34764293eaaa_rw_1200.jpg?h=9e2e9cecf09a05983063cb6aae5094a4",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/dreams/dreams-03.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/c0a0450b-9d7e-4018-9701-e496464e4050_rw_1200.jpg?h=828d168597f6681e9b51c1bbc3a102af",
+          "w": 713,
+          "h": 475
+        },
+        {
+          "file": "images/dreams/dreams-04.jpg",
+          "cdn": "https://cdn.myportfolio.com/bfeeaad6fa5b63d903257e109272d246/0c3ac7ce-b7fe-4c8d-82cd-0c86c93823ca_rw_1200.jpg?h=677b631386eabc0e9e3ee43f3a77599d",
+          "w": 713,
+          "h": 475
+        }
       ]
     }
   ]
